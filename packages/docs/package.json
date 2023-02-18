@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "start-storybook -p 6008",
+    "dev": "start-storybook -p 6009",
     "build": "build-storybook",
     "deploy-storybook": "storybook-to-ghpages"
   },
