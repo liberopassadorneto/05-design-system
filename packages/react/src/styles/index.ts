@@ -1,10 +1,10 @@
 import {
-  radii,
   colors,
   fonts,
   fontSizes,
   fontWeights,
   lineHeights,
+  radii,
   space,
 } from '@liberopneto-ui/tokens';
 import { createStitches, defaultThemeMap } from '@stitches/react';
