@@ -1,0 +1,2 @@
+import{A as t}from"./index.64e90409.js";import"./index.6ac7d373.js";import"./iframe.c66995d3.js";import"./index.290957e4.js";import"./jsx-runtime.ca4e2988.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/liberopassadorneto.png",alt:"Libero Passador Neto"}},e={},m={args:{src:void 0}},c=["Primary","WithFallback"];export{e as Primary,m as WithFallback,c as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.331f8dbb.js.map
